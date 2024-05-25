@@ -1,14 +1,4 @@
-<div id="header" align="center">
-  <div id="badges">
-    <a href="[your-linkedin-URL](http://linkedin.com/in/xcemaxx)">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=xcemaxx&style=flat-square&color=blue" alt=""/>
-</div>
-
-### About Me :
-I am a Research Developer C/C++ from Russia.
+### I am a Research Developer C/C++ from Russia.
 - :telescope: I’m working as a Perfomance Engineer. I make the C/C++ code work fast.
 - :penguin: I work with Linux
 - :orange_book: I love to study. Look at my posts on Linkedin: every post is a book I read or a course I took.
