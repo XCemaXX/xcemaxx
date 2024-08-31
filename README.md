@@ -2,7 +2,9 @@
 - :telescope: I’m working as a Perfomance Engineer. I make the C/C++ code work fast.
 - :penguin: I work with Linux
 - :orange_book: I love to study. Look at my posts on Linkedin: every post is a book I read or a course I took.
-- :incoming_envelope: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-xcemaxx-blue?style=flat&logo=Linkedin&logoColor=white)]([[linkedin-url](http://linkedin.com/in/xcemaxx)](http://linkedin.com/in/xcemaxx))
+- :page_facing_up: [My blog](https://xcemaxx.github.io/posts/)
+- :incoming_envelope: How to reach me: [t.me/XCemaXX](https://t.me/XCemaXX)
+- [![Linkedin Badge](https://img.shields.io/badge/-xcemaxx-blue?style=flat&logo=Linkedin&logoColor=white)]([[linkedin-url](http://linkedin.com/in/xcemaxx)](http://linkedin.com/in/xcemaxx))
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
